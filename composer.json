@@ -1,0 +1,13 @@
+{
+    "name": "my/07",
+    "require": {},
+    "autoload":{
+        "files":[
+            "houdunwang/core/functions.php"
+        ],
+        "psr-4":{
+            "houdunwang\\":"houdunwang\\",
+            "app\\":"app"
+        }
+    }
+}
